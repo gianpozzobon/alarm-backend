@@ -1,0 +1,19 @@
+node_modules
+yarn.lock
+.volumes/
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/tmp
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.dev
+.env.test
+.env.prod
